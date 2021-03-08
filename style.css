@@ -1,0 +1,11 @@
+h1{
+    color:blue;
+}
+*{
+    border:solid;
+}
+.links{
+    background-color: rgb(43, 226, 211);
+    display:flex;
+    justify-content: space-between;
+}    
